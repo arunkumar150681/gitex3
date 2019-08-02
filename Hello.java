@@ -4,6 +4,6 @@ public class Hello {
         
     
 
-      System.out.println("Hello World from Git trigger");
+      System.out.println("Hello World from Git triggessr");
    }
 
